@@ -73,7 +73,7 @@ ___
 
     (Coca - Noctis) Realizei uma POC para entender se poderiamos utilizar uma lib de React poderia ser a solução para implementação de busca, ordenação e filtros específicos para aquela tabela.
 
-    (Coca  - Noctis) Realizei POC para comprar se conseguimos acessar e processar alguns dados em JSON, que estava dentro de um bucket S3 (AWS). Teste foi bem sucessidido, o que acabou evoluindo para um código que fazemos processamento assíncrono.
+    (Coca - Noctis) Realizei POC para comprar se conseguimos acessar e processar alguns dados em JSON, que estava dentro de um bucket S3 (AWS). Teste foi bem sucessidido, o que acabou evoluindo para um código que fazemos processamento assíncrono.
 
 ### L4
 
@@ -144,6 +144,7 @@ ___
 ## Quality: Defino e implanto a estratégia de teste automatizado para garantia da qualidade
 
 ### L3
+
     (Coca - Noctis) Todas as features entregues nos ambientes, tinham um nível de testes unitários ou testes funcionais na URI da API para garantir a entrega dos dados e das funcionalidade de forma mais assertiva. 
 
 ### L4
@@ -195,6 +196,7 @@ ___
 ### L3
 
     (Dafiti) Fiz proposta de arquitetura para o novo web, saindo de um conceito monolito e indo pra um conceito de API REST, separando as responsabilidades de back-end e front-end. Para o back-end, escolhemos manter a mobile-api como entrega do sistema, fazendo adaptações e modificações necessárias para trazer informações necessárias para as homes, página de produto e também do catalogo. Para o front-end, pensei em utilizar o NextJS por ser baseado em React e também por ter muitas feature que poderiam ser utilizadas para tratar o SEO e também receber algumas informações do CMS (BOB). As propostas que foram feitas
+
 ### L4
 
 ___
@@ -376,6 +378,7 @@ ___
     (Empresa: Yahp | 2019-2020) Durante um dos projetos, tive que fazer uma integração com o sistema de geração de notas fiscais, onde havia uma data do início da utilização, pois era quando virava os contratos dos clientes, retirada do serviço de geração de notas do financeiro e também o início do mês, onde começariamos a gerar notas fiscais e faturas. A atividade foi entregue 6 dias antes dos previsto, tendo tempo habil para fazer testes e validar as integrações. O cliente me informou que gostou da entrega e estava o que ele esperava e elogiou o comprometimento com a gerencia, dando margem para eles fazerem as revisões necessárias.
 
     (Paketa) Comprometimento com a entrega do MVP do cliente Paketa, onde tivemos atividades críticas realizando baterias de testes e bugfix durante a semana da entrega. Ajudei na entrega, apoiando meus colegas de trabalho, tanto no review, quanto no apoio de pensar como as atividades devem ser feitas. Fui reconhecido pelo Phellipe e pelo Angelo pela ajuda nas explicações e ajuda para finalizar a sprint. Entrega foi feita 1 dia antes do prazo final.
+
 ### L4
 
 ___
@@ -385,6 +388,7 @@ ___
 ### L3
 
     (Paketa) Identifiquei, durante a análise para execução automática da geração de boletos, que poderia haver ids de fundos diferentes dentro de uma array, me levando a questionar se poderia ter uma alteração, errônea ou não desses fundos. Verifiquei no backoffice que esses ids poderiam ser diferentes para o cliente, dependendo do política de empréstimo. Diante desta fragilidade, informei ao PO imediatamente para verificar se existia alguma regra de negócio ou se isso seria um GAP no desenvolvimento do sistema. O PO verificou com a PM e constatou que se tratava de um GAP do sistema e que este afetava 57 clientes.
+
 ### L4
 
 ___
